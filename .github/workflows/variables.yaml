@@ -8,4 +8,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Print variable
-        run: echo "The value of the variable is:" $MY_VARIABLE
+        run: echo "The value of the variable is::" $MY_VARIABLE
